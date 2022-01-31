@@ -8,6 +8,6 @@ MD. SHAHIDUL ISLAM SHABUZ,
 KAZI ZIAUL MAMUN
 
 Supervisor:
-Dr. Mohammod Abul Kashem
-Professor
+Dr. Mohammod Abul Kashem,
+Professor,
 Department of Computer Science and Engineering, DUET
