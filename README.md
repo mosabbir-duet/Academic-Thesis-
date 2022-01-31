@@ -1,5 +1,5 @@
 # Academic-Thesis-
-Thesis Title: Brain Tumor MRI image Segmentation Using Convolutional Neural Network.
+## Thesis Title: Brain Tumor MRI image Segmentation Using Convolutional Neural Network.
 
 A thesis
 By
