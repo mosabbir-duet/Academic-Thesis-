@@ -3,8 +3,8 @@ Thesis Title: Brain Tumor MRI image Segmentation Using Convolutional Neural Netw
 
 A thesis
 By
-MD. MOSABBIR HOSSAIN
-MD. SHAHIDUL ISLAM SHABUZ
+MD. MOSABBIR HOSSAIN,
+MD. SHAHIDUL ISLAM SHABUZ,
 KAZI ZIAUL MAMUN
 
 Supervisor:
